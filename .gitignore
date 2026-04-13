@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Deep Learning
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pkl
+
+# Data and Results
+data/
+datasets/
+results/
+*.tif
+*.tiff
+*.jpg
+*.png
+*.zip
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+tensorboard/
+
+# OS
+.DS_Store
+Thumbs.db
